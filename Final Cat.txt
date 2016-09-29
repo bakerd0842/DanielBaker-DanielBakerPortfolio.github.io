@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Temporary Home Page</title>
+	</head>
+	<body>
+	<hl>Daniel Baker's Portfolio</hl>
+	<h2> large</h2>
+	<h3> medium</h3>
+	<h4> small </h4>
+	<h5> tiny </h5>
+	<h6>undiscernable</h6>
+	<p>This is an unimportant, random line of text. I'd advise that you leave, and waste no more time here
+	
+	
+	<img src="https://mlpforums.com/uploads/post_images/img-2855191-1-hover_cat.jpeg width=150 height=150"
+	
+	<p> <img src="Beautiful Sunset.jpg" width="284" height="177"/>\
+	</p>
+	
+	
+	</body>
+</html>
