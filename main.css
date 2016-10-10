@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+
+
+body {
+background:  #cce6ff;
+font: 100% Georgia, Times,serif;
+}
+
+h1 {
+font: 300% Arial, Helvetica, sans-serif;
+}
+
+h2 {
+font: Garamond;
+}
+
+p {
+font: Garamond;
+color: green;
+}
+
+h2 {
+font: Garamond;
+}
+
+#wrapper {
+width: 1100px;
+margin: 0 auto;
+padding: 0 50px;
+text-align: left;
+position: relative;
+}
+
+header#mainHeader {
+height: 185 px;
+background: url(Images/logo.png) no-repeat 25 px center;
+padding: 0 75 px 0 0 300px;
+position: relative;
+border-bottom: 2px solid #7f7f7f;
+margin-bottom: 16px;
+}
+
+#mainHeader div{
+margin-top: 16px;
+}
+
+#mainHeader ul {
+list-style: none;
+float: left;
+}
+
+Header#mainHeader ul li {
+float: left;
+}
+
+Header#mainHeader ul li a {
+font-family: Arial, Helvetica, 
+sans-serif;
+font-size:20px;
+color: #000;
+padding: 0 20px;
+border-right: 1px solid #000;
+text-decoration: none;
+}
+
+Header#mainHeader ul li a.last {
+border: none;
+}
+
+Header#mainHeader ul li a:hover{
+color: #c00000;
+}
+
+section#content {
+	float:left;
+	width: 600px;
+	padding: 0 10px 0 25px;
+	margin-bottom: 10px;
+	border-right: 1 px solid 7f7f7f;
+}
+
+section#content p {
+	color: 666;
+	line-height: 1.6;
+	margin-bottom: 10px;
+}
+
+aside#hobbies {
+	font-size: 90%;
+	float: right;
+	width: 450px;
+	margin-bottom: 20px;
+}
+
+footer#pageFooter {
+	clear: both;
+	border-top: 2px solid 7f7f7f
+	padding: 20px;
+}
+
+footer#pageFooter {
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 10px;
+	color: #666;
+}
