@@ -1,0 +1,41 @@
+@Java
+
+@@
+//(C) A+ Computer Science
+
+method main()
+{
+Jeroo bobby = new Jeroo(0,0);
+bobby.hop(1);
+bobby.turn(RIGHT);
+bobby.hop(5);
+bobby.turn(LEFT);
+bobby.hop(3);
+bobby.turn(LEFT);
+bobby.hop(4);
+bobby.turn(RIGHT);
+bobby.hop(4);
+bobby.turn(RIGHT);
+bobby.hop(7);
+bobby.turn(LEFT);
+bobby.hop(1);
+bobby.turn(RIGHT);
+bobby.hop(1);
+bobby.turn(LEFT);
+bobby.hop(1);
+bobby.turn(RIGHT);
+bobby.hop(1);
+bobby.turn(LEFT);
+bobby.hop(1);
+bobby.turn(RIGHT);
+bobby.hop(1);
+bobby.turn(LEFT);
+bobby.hop(1);
+bobby.turn(RIGHT);
+bobby.hop(1);
+bobby.turn(LEFT);
+bobby.hop(1);
+bobby.turn(RIGHT);
+bobby.hop(1);
+bobby.turn(LEFT);
+}
